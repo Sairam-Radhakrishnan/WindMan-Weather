@@ -23,7 +23,7 @@ API Integration: WindMan communicates with the OpenWeather API to retrieve weath
 
 <h3>Data Display:</h3>
 
-Temperature: Displays the current temperature in Celsius or Fahrenheit.
+Temperature: Displays the current temperature in Celsius .
 Humidity: Shows the humidity percentage.
 Weather Description: Provides a brief summary of the weather conditions (e.g., “Clear sky,” “Rainy,” etc.).
 
